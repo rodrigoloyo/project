@@ -1,0 +1,23 @@
+
+header {
+    margin: auto;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 28px;
+}
+ 
+body {
+    background-color: antiquewhite;
+}
+ 
+.ddlViewBy {
+    width: 20px;
+}
+ 
+
+ 
+#countries {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+  
+}
